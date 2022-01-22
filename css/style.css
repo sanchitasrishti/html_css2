@@ -1,0 +1,29 @@
+.box{
+	width: 100px;
+	height: 100px;
+}
+
+.red{
+	background-color: red;
+	margin-bottom: 20px;
+}
+
+.green{
+	background-color: green;
+	padding: 50px;
+}
+
+.blue{
+	background-color: steelblue;
+	padding: 30px;
+	border: 10px solid blanchedalmond;
+	margin: 50px;
+}
+
+h2{
+	color: sienna;
+}
+
+table,tr,td{
+	border: 1px solid blue;
+}
